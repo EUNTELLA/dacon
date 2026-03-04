@@ -21,4 +21,5 @@ checkpoints/
 __pycache__/
 *.pyc
 
-/submission
+submission/
+.csv
