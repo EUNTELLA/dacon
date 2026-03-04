@@ -1,0 +1,22 @@
+# data / archives
+data/
+*.zip
+
+# model weights
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# notebooks checkpoints
+.ipynb_checkpoints/
+
+# outputs/logs
+wandb/
+runs/
+outputs/
+checkpoints/
+
+# python cache
+__pycache__/
+*.pyc
